@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/xgboost-operator:v0.1.0
+FROM docker.io/merlintang/xgboost-dist-iris:1.1
 
