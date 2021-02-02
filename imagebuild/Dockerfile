@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/xgboost-operator:vmaster-g56c2c075
+FROM gcr.io/kubeflow-images-public/xgboost-operator:v0.1.0
 
